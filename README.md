@@ -1,2 +1,2 @@
-# Kodla-Kariyerine-Basla-Projesi
-Kodluyoruz Akademi (https://kodluyoruz.org) Kodla, Kariyerine Başla Projesi
+# Kodla Kariyerine Başla Projesi
+![Kodluyoruz Akademi](https://www.kodluyoruz.org/) Kodla, Kariyerine Başla Projesi
