@@ -1,9 +1,7 @@
-# Kodla Kariyerine Başla Projesi
-[Kodluyoruz Akademi](https://www.kodluyoruz.org/) Kodla, Kariyerine Başla Projesi
-
----
+# [Kodluyoruz Akademi](https://www.kodluyoruz.org/) Kodla, Kariyerine Başla Projesi
 
 ## Soft Skills Patikası 1.Hafta İçeriklerinin Eğitmeni Hakkında:
+--- 
 
 ## Eğitmen: **Gökhan Kandemir**
 ![Eğitmenin Profil Görüntüsü](https://app.patika.dev/cdn/storage/Images/KP8PnghaLJ4jpbdMB/original/KP8PnghaLJ4jpbdMB.jpg)
