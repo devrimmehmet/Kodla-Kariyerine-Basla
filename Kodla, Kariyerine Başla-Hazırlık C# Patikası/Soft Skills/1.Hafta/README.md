@@ -13,3 +13,5 @@
 [Eğitmenin Linkedin Adresi](https://www.linkedin.com/in/gokhan-kandemir/)
 
 [Eğitmenin Youtube Kanalı](https://www.youtube.com/c/kablosuzkedii)
+
+[Eğitmenin Github Adresi](https://github.com/gkandemi)
