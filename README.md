@@ -1,5 +1,8 @@
 # Kodla Kariyerine Başla Projesi
-[Kodluyoruz Akademi](https://www.kodluyoruz.org/) Kodla, Kariyerine Başla Projesi kapsamında C# ile .Net Core Bootcamp Hazırlık Programına ait ders notlarım.
+[Kodluyoruz Akademi](https://www.kodluyoruz.org/) Kodla, Kariyerine Başla Projesi kapsamında C# ile .Net Core Bootcamp Hazırlık Programına ait notlarım.
+
+---
+- - 17.01.2022 saat 20:00'da Zoom üzerinden açılış görüşmesi yapıldı ve program hakkında mail içerisinde gelen detaylar birde sözlü olarak bize aktarıldı ekip tanıtıldı.
 
 ---
 # Kodluyoruz Etik Kodu
