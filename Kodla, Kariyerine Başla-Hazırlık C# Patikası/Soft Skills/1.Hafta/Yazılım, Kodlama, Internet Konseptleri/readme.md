@@ -15,7 +15,8 @@ Eğitmen Hakkında
 # Yazılım, Internet, Kodlama ve Konseptler
 ## Genel Bilgiler
 ### Ağ Nedir?
-![Ağ Nedir?](https:)
+![Ağ Nedir?](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/Soft%20Skills/1.Hafta/Yaz%C4%B1l%C4%B1m%2C%20Kodlama%2C%20Internet%20Konseptleri/Ag%20Nedir.png)
+
 
 - İnternetin Şifresi ne tabiri yanlıştır.
 Modemin Şifresi ne denilmelidir.
@@ -33,13 +34,15 @@ Modemin Şifresi ne denilmelidir.
 
 - tcp iletim protokolüdür. İletimi yaparken Internet Protokolden  faydalanır. Siz bağlantı kurmak istediğinizde bağlantı kurmanızı sağlayan protokoldür. (IP)
 ### Internet Nedir?
-![Internet Nedir?](https:)
+![Internet Nedir?](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/Soft%20Skills/1.Hafta/Yaz%C4%B1l%C4%B1m%2C%20Kodlama%2C%20Internet%20Konseptleri/Internet%20Nedir.png)
 
 - WAN (Wide Area Network)
 
 - Dış Ip'ye sahip olmanız gerekiyor.
 
 ### Domain Name ve IP ilişkisi
+
+![Domain Name IP İlişkisi](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/Soft%20Skills/1.Hafta/Yaz%C4%B1l%C4%B1m%2C%20Kodlama%2C%20Internet%20Konseptleri/Domain%20Name%20ve%20IP%20iliskisi.png)
 
 ### Yazılım Nedir ?
 
