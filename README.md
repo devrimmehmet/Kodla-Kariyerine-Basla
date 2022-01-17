@@ -5,9 +5,11 @@
 # Kodluyoruz Etik Kodu
 Kodluyoruz Etik Kodu, topluluğumuzdaki ilişkilerin temelinde yer alan kuralları tanımlar.
 
-Neden bir Etik Kod'a ihtiyaç duyuyoruz?
+## Neden bir Etik Kod'a ihtiyaç duyuyoruz?
 
-    Bu kurallar, özgür, huzurlu, korkusuz, eleştiren değil üreten ve çözüm bulan bir topluluk inşaa edebilmemize yardımcı olmak için tasarlanmıştır. Bu kuralların amacı topluluğumuza bir takım gereksiz kurallar yüklemek, "kötü" insanlara cezalar uygulamak ya da geçmişte bir takım yanlış yapılmış uygulamaları düzeltmeye çalışmak değildir. Burada yazılmış kurallara uyulmayan ve/veya daha kötü şartlarda çalışmak durumunda kalmış insanlarla bir araya geldiğimizde de yine harika bir topluluk ortaya koyabilmeyi amaçlamaktadır.
+---
+-   Bu kurallar, özgür, huzurlu, korkusuz, eleştiren değil üreten ve çözüm bulan bir topluluk inşaa edebilmemize yardımcı olmak için tasarlanmıştır. Bu kuralların amacı topluluğumuza bir takım gereksiz kurallar yüklemek, "kötü" insanlara cezalar uygulamak ya da geçmişte bir takım yanlış yapılmış uygulamaları düzeltmeye çalışmak değildir. Burada yazılmış kurallara uyulmayan ve/veya daha kötü şartlarda çalışmak durumunda kalmış insanlarla bir araya geldiğimizde de yine harika bir topluluk ortaya koyabilmeyi amaçlamaktadır.
+---
 
 1) Ayrımcılığı reddederiz:
 Kodluyoruz, kişilerin rengi, maddi durumu, ırkı, dili-lehçesi, siyasi görüşü, inancı-inançsızlığı, cinsiyeti ve cinsel yönelimi nedeniyle birbirlerini ayrıştırmasını, gruplaşmasını ve bu doğrultuda tavır almasını kesin bir şekilde reddeder. Eğitmenlerimiz, ekibimiz, öğrencilerimiz ve mezunlarımız, Kodluyoruz çatısı altında din ve siyaset başta olmak üzere ayrımcılığı körükleyebilecek her türlü konudan uzak durur, birbirini bu doğrultuda bilgilendirir.
