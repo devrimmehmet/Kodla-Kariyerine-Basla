@@ -1,14 +1,8 @@
-[Eğitim Video Linki-1](https://www.youtube.com/watch?v=tIoK25bNkqE)
-
+[Eğitim Video Linki-1](https://www.youtube.com/watch?v=tIoK25bNkqE) 
 [Eğitim Video Linki-2](https://www.youtube.com/watch?v=hj3DQyelzQA)
-
 [Eğitim Video Linki-3](https://www.youtube.com/watch?v=HTTcFD5Gvlo)
-
 [Eğitim Video Linki-4](https://www.youtube.com/watch?v=R-qLSOewyko)
-
 [Eğitim Video Linki-5](https://www.youtube.com/watch?v=iSd_azPhaC4)
-
----
 
 Eğitmen: Gökhan Kandemir
 
@@ -31,29 +25,39 @@ Eğitmen: Gökhan Kandemir
     * Disiplinli ve çalışma düzeni olan
 
 ## Freelancer Çalışma
-    * Kendi işinin patronu olmak bazı yükümlülükleri getirir.
-        * Müşteri bulmak
-        * Müşteri ilişkileri
-        * Referans arttırma endişesi
-        * Muhasebe
-        * Sigorta
-        * Vergiler
-        * İş yaptıkça para kazanabilirsiniz
+
+* Kendi işinin patronu olmak bazı yükümlülükleri getirir.
+
+    * Müşteri bulmak
+
+    * Müşteri ilişkileri
+
+    * Referans arttırma endişesi
+
+    * Muhasebe
+
+    * Sigorta
+
+    * Vergiler
+
+    * İş yaptıkça para kazanabilirsiniz
+
 ## Remote Çalışma
-    * Bir şirkete bağlı olarak çalışırsınız
-    * Şirketin lokasyonunda çalışmaktan farkı yoktur
-    * Müşteri bulma derdiniz olmaz
-    * İkili ilişkilerinizin güçlü olması gerekir(Freelancer için de geçerli)
-    * Muhasebe, sigorta, vergiler tamamen şirket tarafından karşılanır
-    * Şirkette işin olmaması sizin değil, şirketin düşünmesi gereken bir konudur.
 
+* Bir şirkete bağlı olarak çalışırsınız
 
-***
-***
-***
+* Şirketin lokasyonunda çalışmaktan farkı yoktur
 
+* Müşteri bulma derdiniz olmaz
+
+* İkili ilişkilerinizin güçlü olması gerekir(Freelancer için de geçerli)
+
+* Muhasebe, sigorta, vergiler tamamen şirket tarafından karşılanır
+
+* Şirkette işin olmaması sizin değil, şirketin düşünmesi gereken bir konudur.
 
 # Kendimi hangi konularda geliştirmeliyim?
+
 - Teknik konular olmazsa olmaz.
 
 - İnsan İlişkileri
@@ -64,11 +68,8 @@ Eğitmen: Gökhan Kandemir
 
 - Geri dönüş süreleri çok önemlidir.
 
-## "En Kötü İletişim İletişimsizlikten İyidir." (Muzaffer Hoca :))
+### "En Kötü İletişim İletişimsizlikten İyidir." (Muzaffer Hoca :))
 
-***
-***
-***
 
 # İlk İşi Nasıl Alabilirim ?
 
@@ -99,15 +100,18 @@ Eğitmen: Gökhan Kandemir
 
 * **İlk iş ücretsiz olabilir ! ! !**
 
-***
-***
-***
-
 # Ürünü anlama yolları?
+
 * Gereksinim dökümanı isteyin [*]
+
 * İşin içindeki statik ve dinamik bölümleri ayırın
+
 * SEO çalışmasına ne kadar uyumlu olduğunu analiz edin
+
     * Müşteriye dinamik bir işi yoksa baştan anlatın 1. sırada yer alamaz çünkü
+
 * Tasarım konusunu netleştirin! [*]
+
 * Uzun vadede ne kadar gelişime açık bir ürün olacağını öğrenin [*]
+
 * Ücretli servisler kullanılıp kullanılmayacağına karar verin [*]
