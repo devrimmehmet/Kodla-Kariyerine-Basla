@@ -1,9 +1,4 @@
 [Eğitim Video Linki-1](https://www.youtube.com/watch?v=ysEN5RaKOlA)
-***
-Eğitmen 1 :
-***
-
-
 # Web Geliştirme Temellerini Öğren - Learn web development as an absolute beginner
 
 * Nereden başlanır ? 
@@ -48,10 +43,8 @@ Eğitmen 1 :
 ---
 ---
 # Yazılım Nedir ? 
-[Eğitim Video Linki-1](https://www.youtube.com/watch?v=iEEJxXYvXCQ)
-***
-Eğitmen:
-***
+[Eğitim Video Linki-2](https://www.youtube.com/watch?v=iEEJxXYvXCQ)
+
 Kullanıcı -> <- Uygulama Yazılımı -> <- İşletim Sistemi -> <- Donanım
 
 * Yazılım
@@ -64,7 +57,7 @@ Kullanıcı -> <- Uygulama Yazılımı -> <- İşletim Sistemi -> <- Donanım
 
 # How Search Works
 
-[Eğitim Video Linki-1](https://www.youtube.com/watch?v=BNHR6IQJGZs)
+[Eğitim Video Linki-3](https://www.youtube.com/watch?v=BNHR6IQJGZs)
 ***
 Eğitmen: Matt Cutts
 ***
@@ -82,7 +75,11 @@ Google arama motorunda klasik bir arama yaptığınızda, bunlara karşılık ge
 
 Bunu sıralamayı şu şekilde yapar:
 
-
+    * Arama sayfasına yazdığınız kelimeyi, anlamına karşılık gelen kavramları, dilini ve bu kelimeyi aratan insanların ortak amacına göre bir algoritma çizer.
+    * Sorguladığınız kavram ile eşleşen web sayfalarını arar. Alakalı bir sayfa bulduğuna dair en temel sinyal ise arama sırasında kullandığınız anahtar kelimeleri içermesidir. Aranan kelimenin hangi sayfada sıklıkla kullanıldığını belirler.
+    * Örneğin: ana başlıkta, alt başlıkta ya da metnin içinde kullanılıyor olabilir. Alaka düzeyinin artması için yoğunluğu yüksek sayfaları sıralamada yukarı taşır. Bu durumda anahtar kelimeyi başlık ve alt başlıkta geçirmek üst sıralara çıkmanızı kolaylaştırır.
+    * Sonuçları sunmaya bir adım kala web sayfalarındaki bilgilerin bir araya geliş şeklini değerlendirir. Yani sayfada tek bir konuya mı odaklanılmış yoksa birden çok konu tek seferde mi işlenmiş, buna bakılır. Olabildiğince kapsamlı ve geniş bilgiler içeren web sitelerinin bizlere daha çok yardımcı olacağı varsayımıyla hareket eder.
+    * Bulunduğunuz konumu, geçmiş aramalarınızı, arama için yaptığınız ayarları, geçmişte sık sık kullandığınız web sitelerini de dikkate alarak karşınıza bir sonuç sayfası çıkarır.
 
 ## Google Arama Nasıl Etkili Kullanılır?
 
@@ -100,7 +97,7 @@ Arama: Türkiye’nin yüzölçümü kaç kilometrekaredir?
 
 Örnek arama: Türkiye yüzölçümü
 
-![türkiye yüzölçümü]()
+![türkiye yüzölçümü](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/turkiye%20yuzolcumu.png?raw=true)
 
     * Kelimelerin dizilimine dikkat edin.
 Arama yaparken doğru kelimeleri seçmek kadar bu kelimelerin nasıl dizildiği de çok önemli. Google’da çıkacak sonuçlar tamamen yazdığınız kelimelerle alakalı olacağından anahtar kelimeleri mümkün olduğunca nokta atışı yapacak şekilde seçmek gerekiyor.
