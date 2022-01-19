@@ -116,7 +116,7 @@ Her ikisinde de sonuçlar çıkıyor fakat ikinci adımdaki mantığı uygularsa
     * Gereksiz kelimeleri ve işaretleri atlayın
 Google yapılan aramalardaki eksikleri ve hataları düzeltebilecek kapasiteye sahip. Bu özelliği sayesinde Google anahtar kelime olarak belirtilenler arasından gereksiz olarak algıladıklarını zaten göz ardı edecektir. Bu yüzden o kelimeleri girmekle vakit harcamayın ve direkt olarak sonuç odaklı çalışın.
 
-![kodluyoruz]()
+![kodluyoruz](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/kodluyoruz.png?raw=true)
 
 Not: Google’da arama yaparken aşağıdaki maddelere dikkat etmeseniz de olur;
 
@@ -127,28 +127,28 @@ Not: Google’da arama yaparken aşağıdaki maddelere dikkat etmeseniz de olur;
 
 Örnek arama: internetin zararları filetype:doc
 
-![internetin zararları]()
+![internetin zararları](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/internetin%20zararlari.png?raw=true)
 
     * Bir kısmını unuttuğunuz cümleleri arama
 Gün içerisinde bir söz veya şarkı sözü duyduğunuzda ancak bunun sadece belli kısımlarını anlayabildiğinizde ve tamamına ulaşmak istediğinizde Google’ın bu arama yöntemi fazlasıyla yardımcı oluyor. Böyle bir durumla karşılaştığınızda ise yapmanız gereken tek şey, cümlenin bilmediğiniz kısmına Google’da arama yaparken "* *" ifadesini eklemek. Ayrıca bu özelliği bir hata aldığınızda sizin cihazınıza özel alanları belirtmek için de kullanabilirsiniz.
 
 * Güzel hayat isteyen * * biriktirsin
 
-![Guzel Hayat isteyen]()
+![Guzel Hayat isteyen](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/guzel%20hayat%20isteyen.png)
 
     * Birden fazla kelime ile arama yapma
 Birden fazla kelime ile arama yaptığınızda ve her kelimenin aramanın içinde geçmesini istiyorsanız çift tırnak kullanabilirsiniz. Aksi halde google bu kelimelerden bir kısmını eleyerek size sonuçlar gösterebilir.
 
 Örnek arama: “kodluyoruz hakkında”
 
-![kodluyoruz hakkında]()
+![kodluyoruz hakkında](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/kodluyoruz%20hakk%C4%B1nda.png)
 
     * Bir site içerisinde arama yapma
 Bir web sitesi içinde arama yapmak istiyorsanız site: özelliğini kullananabilirsiniz. Çoğu durumda sitelerin kendi arama özelliklerinden daha iyi çalışır.
 
 Örnek arama: cs50x site:kodluyoruz.org
 
-![cs50x kodluyoruzorg]()
+![cs50x kodluyoruzorg](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/cs50x%20site%3Akodluyoruzorg.png)
 
 
     * Sosyal aramalar
@@ -158,20 +158,20 @@ Sosyal medya kanalları üzerinde aradığınız sonuçlar için yapacağınız 
 
 Hashtag (#) sembolünü kullanarak yapacağınız aramalarla Google+, Twitter ve diğer sosyal medya platformlarında yer alan hashtag’lere ait sonuçları listeleyebilirsiniz.
 
-![dieskodluyoruz]()
+![dieskodluyoruz](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/dieskodluyoruz.png)
 
 
 @[kişi-ismi]
 Sosyal medya kanalları üzerinde yapacağınız kişi aramaları için kişi isminden önce "@" sembolünü kullanmanız gerekmekte.
 
-![etkodluyoruz]()
+![etkodluyoruz](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/etkodluyoruz.png)
 
     * Gün doğumu ve gün batımı sonuçları
 Google’ı dünya üzerindeki herhangi bir şehrin veya bölgenin gün doğumu ve gün batımı saatlerini öğrenmek için kullanabilirsiniz.
 
 Bunu yapabilmek için; Gün doğumu/gün batımı, şehir ismi
 
-![gundogumuistanbul]()
+![gundogumuistanbul](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/gundogumuistanbul.png)
 
     * 10 Eş anlamlı kelime ile arama yapma.
 
@@ -186,7 +186,7 @@ Google’da belirli limitler arasında arama yapabilirsiniz. Bu limitler fiyat a
 
 Örnek arama: 3000..4000 TL Android telefon
 
-![30004000telefon]()
+![30004000telefon](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/30004000al%C4%B1sveris.png)
 
 Elbette bu örneğe benzer şekilde birçok farklı arama gerçekleştirebilirsiniz.
 
