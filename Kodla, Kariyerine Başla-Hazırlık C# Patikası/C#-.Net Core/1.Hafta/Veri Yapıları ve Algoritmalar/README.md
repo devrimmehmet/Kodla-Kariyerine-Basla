@@ -1,6 +1,8 @@
-![Eğitim Video Linki-1](https://www.youtube.com/watch?v=l8x9HZ-saKY)
+[Eğitim Video Linki-1](https://www.youtube.com/watch?v=l8x9HZ-saKY)
+
 ---
 Eğitmen: Engin Deniz ALPMAN
+
 ---
 
 # Algoritma Nedir?
@@ -10,7 +12,7 @@ Algoritma, Cebrin atası ve kurucusu olarak bilinen Harezmî tarafından 9.yüzy
 
 Algoritma nedir sorusunun cevabı, bir problemin çözümü için gerekli olan adımların bütününe verilen isimdir. Gelin algoritma örneklerini günlük hayatımızdan çıkarmaya çalışalım. Bir kahve hazırlarken de algoritma kullanırız, ayakkabımızı giyerken de kullanırız. Kahve örneğimizi inceleyelim. Öncelikle bir kahve bardağı bulmamız gerekiyor. Bundan sonraki adım ise kahveyi makineye koyup çalıştırmamız. Daha sonrasında kahve bardağını ilgili yere koyup tuşa basmamız gerekiyor. Bu olay örgüsü aslında bir algoritma. Adım adım sürdürmemiz gerekiyor. Öğrendiklerimizi pekiştirmek için haydi gelin resimli örneğimizi inceleyelim.
 
-![Algoritma Örneği]()
+![Algoritma Örneği](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar/G%C3%B6rseller/Algoritma.png?raw=true)
 
 Gördüğünüz üzere ana problemimiz bilgisayarın çalışmaması. İlk adım güç kablosunun takılı olup olmadığını kontrol etmek. Bu adımın cevabı Hayır ise yapmamız gereken güç kablosunu takmaktır, cevap Evet ve hâlâ bilgisayarımız çalışmıyor ise bir sonraki adımı uygulamamız gerekiyor. İkinci adım, uzatma kablosunun durumunu inceledikten sonra eğer bilgisayarımız hâlâ çalışmıyor ise tamire götürmemiz gerektiği sonucunu veriyor.
 
