@@ -24,3 +24,50 @@ Gördüğünüz üzere ana problemimiz bilgisayarın çalışmaması. İlk adım
 * [Khan Academy](https://tr.khanacademy.org/computing/computer-science/algorithms/intro-to-algorithms/v/what-are-algorithms)
 * [Investopedia](https://www.investopedia.com/terms/a/algorithm.asp)
 * [BBC](https://www.bbc.co.uk/bitesize/topics/z3tbwmn/articles/z3whpv4)
+
+***
+***
+[Eğitim Video Linki-2](https://www.youtube.com/watch?v=YI93sLcmEGI)
+***
+# Bilgilerin Bilgisayarda İfadesi
+
+Bilgisayarlar bilgileri 1 ve 0 olarak ifade ederler.
+
+* Transistörler elektrik varsa 1 yoksa 0. 
+* 1 ve 0 sistemine binary denir.
+
+
+***
+***
+[Eğitim Video Linki-3](https://www.youtube.com/watch?v=ypB6-gjxyUM)
+***
+
+# Sayı Sistemleri
+
+* Bilgisayarda 1 kutucuk ile ifade edilebilen şeyler 1 ve 0dan oluşur.
+* Bu sisteme Binary denir.
+
+onluk sayı sisteminde 102 ;
+* 102 -> 10^0 * 2 + 10^1 * 0 + 10^2 * 1
+
+ikili sayı siteminde 101 ;
+* 101 -> 2^0 * 1 + 2^1 * 1 + 2^2 * 1
+
+onluk sayı sistemine 5 ;
+5 / 2 = 2  kalan **1** 
+2 / 2 = **1**  kalan **0** 
+
+***
+***
+[Eğitim Video Linki-4](https://www.youtube.com/watch?v=ygivFXVrKxA&feature=emb_title)
+***
+# Bilgisayarda sayısal olmayan verilerin tutulması
+
+***
+***
+[Eğitim Video Linki-5](https://www.youtube.com/watch?v=rpdFDbNfpP8)
+***
+# Verilerin tutulması
+
+
+
