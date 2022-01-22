@@ -168,3 +168,148 @@ Genelde kişisel kullanıma yöneliktir. GitHub tarafındaki açık kaynak proje
 
 # Git Bash ile GIT Temel Komutları
 
+    git init  
+        İlk defa Projeyi oluştururken kullanılır.
+            Bir gizli klasör oluşturur .git adında.
+    
+    git add
+        Herhangi bir dosya veya klasörü versiyon kontrol sistemine takip için ekler
+            git add index.html sadece index.html dosyasını takipe başlatmak için
+            git add .   hepsini takip etmesi için.
+            git rm --cached index.html  istenilen dosyayı takipten çıkarmak için kullanılır
+
+    git commit
+        SnapShot almamızı sağlar dosyayı onaylamak için kullanılan yapı
+        git commit dediğimizde eğer giti ilk defa kullanıyorsak tanımlama yapmak gerekiyor
+            git config --global user.email "devrimmehmet@gmail.com"
+            git config --global user.name "Devrim Mehmet"
+        ilk yaptığımızda bizi yönlendirdiği renkli terminalden çıkmak için :q demek yeterli.
+        git commit -m 'First Commit'
+
+    git diff 
+        en son committen sonraki değişiklikleri gösterir
+        git diff index.html deyip sadece index.htmldeki değişiklikleri görebiliriz.
+
+    git status
+        Neler Değişmiş görmek için kullanılır
+            takip edilip edilmeyen klasörleri gösteriyor.
+    
+    git push
+        Uzak Sunucuya gönder
+    
+    git pull
+        Uzak Bilgisayardan çek
+    
+    git clone
+        Projeyi klonlamak için kullanılır
+    
+    git checkout
+        Branchler arası geçiş için kullanılır
+    
+    git rm
+        Dosya veya klasörleri silmek için kullanılır.
+
+***
+***
+***
+
+[Eğitim Video Linki-4](https://www.youtube.com/watch?v=FxN-NlTCWZ0)
+
+***
+
+# VS Code içinde Terminal Kullanarak GIT Temel Komutları
+
+* git --version  // git varmı kontrol et.
+
+* git init // git add index.html 
+
+* git status // dosyanın duruma bak
+
+* git commit -m 'index düzenlendi'
+
+* q ya basarak çıkılır
+
+
+***
+***
+***
+
+[Eğitim Video Linki-5](https://www.youtube.com/watch?v=5Lnjbkj-4ac)
+
+***
+
+# VS Code içerisinde Terminal Kullanmadan GIT Temel Komutları
+
+***
+***
+***
+
+[Eğitim Video Linki-6](https://www.youtube.com/watch?v=QF99zzvhgUs)
+
+***
+
+# .gitignore Dosyası Ne İşe Yarar? Nasıl Kullanırız?
+
+Versiyonlamak istenmeyen dosyalar;
+
+* görseller
+* videolar
+* logolar
+* paket yöneticisi ile kurulmuş dosyalar olabilir ??
+
+bunu yapabilmek için
+
+    .gitignore diye dosya açılır klasör içinde.
+
+genel bilgi sahibi olabilmek için google'da aşağıdaki başlıklar gibi aramalar yapılabilir. 
+
+    gitignore C# 
+    gitignore .net core 
+
+## IDE - VSCode
+
+    .vscode/*
+    !.vscode/settings.json
+    !.vscode/task.json
+    !.vscode/launch.json
+    !.vscode/extensions.json
+
+## img
+    *.jpg
+    *.png
+    img/
+
+## videos
+
+    *.mp4    
+
+## packages
+
+## log
+
+    *.log
+
+password.txt
+
+***
+***
+***
+
+[Eğitim Video Linki-7](https://www.youtube.com/watch?v=TP2K4cx3Asw&t=2s)
+
+***
+
+# GIT - Proje İçindeki Birden Fazla Dosyanın Versiyon Kontrol Sistemine Eklenebilmesi
+
+Yeni bir branch açıp oradan farklı bir sistemle ilerleyip deneme yapabilirsiniz
+
+ilerleyen süreçte bu branchleri birleştirebilir yada birini iptal edebilirsiniz.
+
+    * git branch deneme
+    * işlemlerimi yapıp bitirdikten sonra birleştirmek istersem
+    * commit işlemini bu branchtayken yaparız
+    * git checkout master yapıp mastere geçerim
+    * git merge deneme yapıp masterin içinde denemeyi mastere dahil etmiş olurum.
+
+* **Commit işlemi yapmadan "git push" yapmaya çalışırsak hiçbir hata göstermez fakat dosyalar aktarılmaz**
+
