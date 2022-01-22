@@ -17,7 +17,7 @@
 ***
 ***
 ***
-## C# - .NET Core Patikası **Veri Yapıları ve Algoritmalar** 1.Hafta İçeriklerinin Eğitmeni Hakkında:
+## C# - .NET Core Patikası **GIT** 1.Hafta İçeriklerinin Eğitmeni Hakkında:
 --- 
 
 ## Eğitmen: **Hakan Yalçınkaya**
