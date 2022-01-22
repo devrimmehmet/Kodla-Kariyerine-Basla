@@ -69,5 +69,37 @@ onluk sayı sistemine 5 ;
 ***
 # Verilerin tutulması
 
+![bit-byte](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar/G%C3%B6rseller/Bits_and_Bytes.png?raw=true)
+
+***
+***
+[Eğitim Video Linki-6](https://www.youtube.com/watch?v=MMa0PwP165Y)
+***
+# Recursion
+
+Recursion : Problemi daha küçük problemlere bölerek çözmemizi sağlayan bir yapıdır.
+
+![Fibonacci]()
+
+* factorial(x)
+* if x == 1:
+* return 1
+* return x * factorial (x-1)
 
 
+5! = 5 * 4! 
+
+5! = 5 * 4 * 3! 
+
+5! = 5 * 4 * 3 * 2!
+
+5! = 5 * 4 * 3 * 2 *1! 
+
+5! = 5 * 4 * 3 * 2 * 1 
+
+* **Recursion fonksiyonda başlangıçta bir bitiş koşulu yazılır.** 
+
+***
+
+### Kaynaklar
+* https://www.genelpiyasa.com/akademi/kurslar/borsa-okulu/fibonacci-ile-islem-ve-ticaret/
