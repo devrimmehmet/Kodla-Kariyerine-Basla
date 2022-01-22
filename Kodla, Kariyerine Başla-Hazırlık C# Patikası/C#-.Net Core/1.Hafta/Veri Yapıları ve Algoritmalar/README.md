@@ -79,8 +79,9 @@ onluk sayı sistemine 5 ;
 
 Recursion : Problemi daha küçük problemlere bölerek çözmemizi sağlayan bir yapıdır.
 
-![Fibonacci]()
+![Fibonacci](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar/G%C3%B6rseller/fibonacci.jpeg?raw=true)
 
+## Örnek:
 * factorial(x)
 * if x == 1:
 * return 1
