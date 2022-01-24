@@ -5,10 +5,13 @@
 - - 17.01.2022 saat 20:00'da Zoom üzerinden açılış görüşmesi yapıldı ve program hakkında mail içerisinde gelen detaylar birde sözlü olarak bize aktarıldı ekip tanıtıldı.
 ---
 - - 21.01.2022 saat 20:00'da Zoom Üzerinden ve youtube üzerinden canlı yayınlanan girişimcilik üzerinden bir webinar(online seminer) yapıldı.
+
+[Kodla, Kariyerine Başla - Webinar #2 | Berat Kjamili](https://www.youtube.com/watch?v=RqqD_ompK7o)
+
 ---
 - - 24.01.2022 saat 20:00'da Zoom Üzerinden haftalık danışmanlık üzerine bir toplantı gerçekleştirildi.
 
-[Kodla, Kariyerine Başla - Webinar #2 | Berat Kjamili](https://www.youtube.com/watch?v=RqqD_ompK7o)
+
 
 ---
 # Kodluyoruz Etik Kodu
