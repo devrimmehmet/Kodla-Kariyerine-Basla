@@ -145,7 +145,7 @@ Bir web sitesi içinde arama yapmak istiyorsanız site: özelliğini kullananabi
 
 Örnek arama: cs50x site:kodluyoruz.org
 
-![cs50x kodluyoruzorg](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/master/Kodla%2C%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/cs50x%20site%3Akodluyoruzorg.png)
+![cs50x kodluyoruzorg](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Herkes%20%C4%B0%C3%A7in%20Temel%20Dersler/G%C3%B6rseller/cs50x%20site_kodluyoruzorg.png?raw=true)
 
 
     * Sosyal aramalar
