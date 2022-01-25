@@ -1,6 +1,6 @@
 # [Kodluyoruz Akademi](https://www.kodluyoruz.org/) Kodla, Kariyerine Başla Projesi
 
-## Soft Skills Patikası 2.Hafta İçeriklerinin Eğitmeni Hakkında:
+## Soft Skills Modülü 2.Hafta İçeriklerinin Eğitmeni Hakkında:
 --- 
 
 ## Eğitmen: **Gökhan Kandemir**

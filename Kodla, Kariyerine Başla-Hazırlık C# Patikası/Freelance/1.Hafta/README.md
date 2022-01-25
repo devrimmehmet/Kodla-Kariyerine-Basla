@@ -1,6 +1,6 @@
 # [Kodluyoruz Akademi](https://www.kodluyoruz.org/) Kodla, Kariyerine Başla Projesi
 
-## Freelance Patikası 1.Hafta İçeriklerinin Eğitmeni Hakkında:
+## Freelance Modülü 1.Hafta İçeriklerinin Eğitmeni Hakkında:
 --- 
 
 ## Eğitmen: **Gökhan Kandemir**
