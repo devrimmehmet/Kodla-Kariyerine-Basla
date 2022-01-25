@@ -2,7 +2,7 @@
 [Eğitim Video Linki-2](https://www.youtube.com/watch?v=SQZVtW97Zwg)
 [Eğitim Video Linki-3](https://www.youtube.com/watch?v=k-q0xEAYOl4)
 [Eğitim Video Linki-4](https://www.youtube.com/watch?v=njVbXbaedeU)
-[Eğitim Video Linki-5]()
+[Eğitim Video Linki-5](https://www.youtube.com/watch?v=LmI1c2DqqO4)
 
 Eğitmen: Gökhan Kandemir
 
@@ -34,7 +34,7 @@ Eğitmen: Gökhan Kandemir
 
 ## Tasarım Konusunun Netleştirilmesi
 
-![Tasarım](.)
+![Tasarım](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/Freelance/2.Hafta/G%C3%B6rseller/tasarim.png?raw=true)
 * Sizden mi bekleniyor?
 * Müşteriden mi gelecek?
 * Hazır bir template mi alınacak ?
@@ -53,3 +53,4 @@ Eğitmen: Gökhan Kandemir
 
 ## Örnek Gereksinim Dokümanı İncelemesi
 
+[Eğitim Video Linki-5](https://www.youtube.com/watch?v=LmI1c2DqqO4)
