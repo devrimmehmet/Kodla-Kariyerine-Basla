@@ -11,6 +11,8 @@
 ---
 - - 24.01.2022 saat 20:00'da Zoom Üzerinden haftalık danışmanlık üzerine bir toplantı gerçekleştirildi.
 
+---
+- - 27.01.2022 saat 20:30'da Discord Üzerinden haftalık (Mentor eşliğinde) tanışma, sohbet genel bir toplantı gerçekleştirildi.
 
 
 ---
