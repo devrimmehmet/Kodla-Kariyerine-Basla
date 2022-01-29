@@ -35,52 +35,45 @@ Eğitmen: Engin Deniz ALPMAN
 
 # Linked List vs Array
 
-![LinkedList-vs-Array]()
+![LinkedList-vs-Array](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/2.Hafta/Veri%20Yap%C4%B1lar%C4%B1/img/linkedlist-vs-array1.png?raw=true)
 
 ***
 ***
-[Eğitim Video Linki-4](https://www.youtube.com/watch?v=ygivFXVrKxA&feature=emb_title)
+[Eğitim Video Linki-4](https://www.youtube.com/watch?v=jAK9v-rpIbs)
 ***
-# Bilgisayarda sayısal olmayan verilerin tutulması
+# Linked List Eleman Ekleme/Silme
 
-***
-***
-[Eğitim Video Linki-5](https://www.youtube.com/watch?v=rpdFDbNfpP8)
-***
-# Verilerin tutulması
 
-![bit-byte](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar/G%C3%B6rseller/Bits_and_Bytes.png?raw=true)
 
 ***
 ***
-[Eğitim Video Linki-6](https://www.youtube.com/watch?v=MMa0PwP165Y)
+[Eğitim Video Linki-5](https://www.youtube.com/watch?v=wnbqiwW_C6Q)
 ***
-# Recursion
-
-Recursion : Problemi daha küçük problemlere bölerek çözmemizi sağlayan bir yapıdır.
-
-![Fibonacci](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/C%23-.Net%20Core/1.Hafta/Veri%20Yap%C4%B1lar%C4%B1%20ve%20Algoritmalar/G%C3%B6rseller/fibonacci.jpeg?raw=true)
-
-## Örnek:
-* factorial(x)
-* if x == 1:
-* return 1
-* return x * factorial (x-1)
-
-
-5! = 5 * 4! 
-
-5! = 5 * 4 * 3! 
-
-5! = 5 * 4 * 3 * 2!
-
-5! = 5 * 4 * 3 * 2 *1! 
-
-5! = 5 * 4 * 3 * 2 * 1 
-
-* **Recursion fonksiyonda başlangıçta bir bitiş koşulu yazılır.** 
+# Stack
 
 ***
+***
+[Eğitim Video Linki-6](https://www.youtube.com/watch?v=XLZbYvi5pvs)
+***
+# Queue
 
-### Kaynaklar
-* https://www.genelpiyasa.com/akademi/kurslar/borsa-okulu/fibonacci-ile-islem-ve-ticaret/
+
+***
+***
+[Eğitim Video Linki-7](https://www.youtube.com/watch?v=jhc-KG3htrM)
+***
+# Hash Table
+
+
+***
+***
+[Eğitim Video Linki-8](https://www.youtube.com/watch?v=ZX-1qPSYC_k)
+***
+# Hash Function
+
+
+***
+***
+[Eğitim Video Linki-9](https://www.youtube.com/watch?v=FD7nKLnrguE)
+***
+# Hash Collision
