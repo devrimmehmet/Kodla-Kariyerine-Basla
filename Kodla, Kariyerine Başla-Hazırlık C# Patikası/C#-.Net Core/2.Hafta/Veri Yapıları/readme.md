@@ -79,7 +79,26 @@ Eğitmen: Engin Deniz ALPMAN
 ***
 # Hash Table
 
+- Array a[0] 1.elemanı getirir.
+- Çoğu programlama dili 0 bazlı indexi kullanır fakat farklı 1 bazlı gibi kullanımlarda var.
 
+## Hash Table
+
+* Hash Table ürünlerin fiyatını ezbere bilen çalışan gibidir.
+* Ürünlerin isimlerini ve fiyatlarını array'in elemanları olarak tutup
+sorunu çözebilirdik ama ürünleri array'de tek tek aramak istemiyorum, anında aradığım ürünün fiyatını bulmak istiyorum.
+
+### Bunu nasıl çözebilirim?
+
+- İlk eleman sayısı ürün sayısına eşit bir array oluşturacağız.
+- Ürünlerin isimlerini bir fonksiyona sokup alacağız.
+- Fonksiyonun çıktılarını oluşturduğumuz array'in index'i olarak kullanıp, ürünlerin fiyatlarını bu indexlerde tutacağız.
+- Array'ler bize kaçıncı eleman olursa olsun sabit sürede istenen lokasyondaki elemanı verebiliyordu.
+- Bu sabit sürede erişmeyi lokasyon bazlı değil, tanım bazlı kullanmak istiyorum. Bana 3.elemanı getir değil, bana elmaya karşılık gelen elemanı/fiyatı getir demek istiyorum.
+- Biri bize bir ürünün fiyatını sorduğunda bu ürünü oluşturduğumuz fonksiyona besleyip arraydeki indexi neredeymiş onu bulacağız.
+- Bu fonksiyona Hash Function, Hash Function + Array yapısına da Hash Table deniyor.
+
+**Hash Table, key value prensibine dayanın bir array kümesidir. Key olarak çağırdığınız elemanın değerini (value) yansıtır.
 
 ***
 ***
@@ -87,9 +106,20 @@ Eğitmen: Engin Deniz ALPMAN
 ***
 # Hash Function
 
+- Hash Function her seferinde aynı girdiye aynı sonucu vermeli
+
+- Farklı girdilere farklı çıktılar versin istiyoruz.
+
+- Hash Function'ın çıktılarının sınırlarında (range) olmalı array'in boyutu.
+
+** Maalesef her seferinde aynı girdiye farklı sonuç veremiyor Hash Function, bu duruma Collision deniyor.
  
 ***
 ***
 [Eğitim Video Linki-9](https://www.youtube.com/watch?v=FD7nKLnrguE)
 ***
 # Hash Collision
+
+* Hash Table yaratabilmek için hash function kaliteli olmalı collisionu en az seviyede tutmalı.
+* Aynı inputu aynı outputa get etmesi lazım.
+* Hash functionlar aynı değeri iki farklı değere atabilirler!
