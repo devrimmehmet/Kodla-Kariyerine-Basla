@@ -33,4 +33,21 @@ Eğitmen: Gökhan Kandemir
     * 2.faz
     * Projenin tahmini bitiş süresi
 
+* Ücretlendirme Kriterleri
+    * Projenin Bütçesi
+    * Sunucu Maliyetleri
+    * Varsa ücretli servislerin maliyetleri(Sendgrid, E-mailling, Cloud Tech, Fontlar, stock yapılar vs.)
+    * Eğer projeye bir kişiyi dahil etmek isterseniz onların da maliyetleri
 
+* Proje sonunda emekleme dönemi (Baby Sitting)
+
+* Proje sonrasında revize maliyetleri
+    * Küçük revizeler nedir?
+    * Büyük revizeler nedir?
+
+* İletişim Yöntemleri
+    * İş müsaitse haftalık yapacağınız toplantılar
+    * Hangi saat dilimlerinde iş üzerinde çalışaca    * ğınız (opsiyonel)
+    * İletişim saatleri (Tecrübeliyseniz bu madde     * kesinlikle olmalı   * dır.)
+
+* Teklifin geçerli olduğu tarih   
