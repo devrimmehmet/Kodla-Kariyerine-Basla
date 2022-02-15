@@ -1,3 +1,4 @@
+
 [Eğitim Video Linki-1](https://www.youtube.com/watch?v=ur4dLNq_AhI)
 
 ---
