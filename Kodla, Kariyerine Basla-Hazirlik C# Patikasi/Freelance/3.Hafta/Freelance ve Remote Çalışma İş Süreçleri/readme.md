@@ -1,5 +1,5 @@
 [Eğitim Video Linki-1](https://www.youtube.com/watch?v=Kl4slMMoXR0) 
-[Eğitim Video Linki-2]()
+[Eğitim Video Linki-2](https://www.youtube.com/watch?v=wMMmiAhNvhY)
 [Eğitim Video Linki-3]()
 [Eğitim Video Linki-4]()
 [Eğitim Video Linki-5]()
@@ -51,3 +51,7 @@ Eğitmen: Gökhan Kandemir
     * İletişim saatleri (Tecrübeliyseniz bu madde     * kesinlikle olmalı   * dır.)
 
 * Teklifin geçerli olduğu tarih   
+
+## Örnek Teklif Formu İncelemesi
+
+[Eğitim Video Linki-2](https://www.youtube.com/watch?v=wMMmiAhNvhY)
