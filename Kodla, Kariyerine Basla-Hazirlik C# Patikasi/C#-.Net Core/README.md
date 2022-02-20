@@ -2,4 +2,4 @@
 [Kodluyoruz Akademi](https://www.kodluyoruz.org/) Kodla, Kariyerine Başla Projesi
 
 ### 1.Hafta Takvimi
-![1.Hafta](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla-Projesi/blob/master/Kodla,%20Kariyerine%20Ba%C5%9Fla-Haz%C4%B1rl%C4%B1k%20C%23%20Patikas%C4%B1/E%C4%9Fitim%20Takvimi/hafta1.png?raw=true)
+![1.Hafta](https://raw.githubusercontent.com/devrimmehmet/Kodla-Kariyerine-Basla/master/Kodla%2C%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/Egitim%20Takvimi/hafta1.png)
