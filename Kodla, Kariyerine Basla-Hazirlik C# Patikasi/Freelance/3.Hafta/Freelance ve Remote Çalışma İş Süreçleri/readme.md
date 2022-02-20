@@ -1,8 +1,16 @@
 [Eğitim Video Linki-1](https://www.youtube.com/watch?v=Kl4slMMoXR0) 
 [Eğitim Video Linki-2](https://www.youtube.com/watch?v=wMMmiAhNvhY)
-[Eğitim Video Linki-3]()
-[Eğitim Video Linki-4]()
-[Eğitim Video Linki-5]()
+[Eğitim Video Linki-3](https://www.youtube.com/watch?v=EhTx6nrz7r8)
+[Eğitim Video Linki-4](https://www.youtube.com/watch?v=Ddba8xj2q4Y)
+[Eğitim Video Linki-5](https://www.youtube.com/watch?v=Ddj-Rmz7tSQ)
+[Eğitim Video Linki-6](https://www.youtube.com/watch?v=RPrR4A-ykrY)
+[Eğitim Video Linki-7](https://www.youtube.com/watch?v=gLf0350xBX0)
+[Eğitim Video Linki-8](https://www.youtube.com/watch?v=qxwbYbE3CNk)
+[Eğitim Video Linki-9](https://www.youtube.com/watch?v=PIvrP32WHG8)
+[Eğitim Video Linki-10](https://www.youtube.com/watch?v=LKzoyePr8-s)
+[Eğitim Video Linki-11](https://www.youtube.com/watch?v=iXzG3wrAJ3A)
+[Eğitim Video Linki-12](https://www.youtube.com/watch?v=ttjftjW6DBY)
+[Eğitim Video Linki-13](https://www.youtube.com/watch?v=RgMmqV28kqM&t=3s)
 
 Eğitmen: Gökhan Kandemir
 
@@ -160,6 +168,7 @@ PROJE ÜCRETİ = EÜ + ÜS + SM + TM + KDV
 
 * SÖZLEŞMENİZ OLSUN !!!
 
+---
 
 ## Danışmanlık ve Bakım Anlaşması ! 
 
@@ -184,4 +193,84 @@ PROJE ÜCRETİ = EÜ + ÜS + SM + TM + KDV
         * Lokasyon
         * Remote
 * Tabiki Ücretlendirme...
+
+---
+
+## Örnek Danışmanlık Sözleşmesi ! 
+
+[Eğitim Video Linki-9](https://www.youtube.com/watch?v=PIvrP32WHG8)
+
+---
+
+## Danışmanlık ile ilgili başımdan geçenler ! 
+
+[Eğitim Video Linki-10](https://www.youtube.com/watch?v=LKzoyePr8-s)
+
+---
+
+## Profesyonel İletişimin Sırları ! 
+
+[Eğitim Video Linki-11](https://www.youtube.com/watch?v=iXzG3wrAJ3A)
+
+* İlk Temas
+    * Durumu özetleyen bir mail atın
+
+* Sonraki Süreç
+    * Mümkünse müşterinin yaptığınız işi görebilmesini sağlayın
+    * Her gün bilgilendirme maili atın
+    * Haftada 1 toplantı yapın (Sözleşmede içeren maddelere göre değişebilir)
+    
+* Müşterinin habersiz bırakılmaması
+
+* Müşterinin mağdur edilmemesi 
+
+* Müşterinin sizi sık boğaz etmesini sağlamak
+
+---
+
+## Profesyonel İletişim - Konuşma Kuralları
+
+[Eğitim Video Linki-12](https://www.youtube.com/watch?v=ttjftjW6DBY)
+
+* Müşteri ile profesyonel yakınlığı sakın bozmayın
+    * Bu size kötü bir şekilde yansıyabilir
+        * Çalışma yönünden
+        * Emeğinizin karşılığı yönünden
+
+* "Hallederiz" demeyin ! 
+
+* Alaycı bir tonlama kullanmayın
+
+* Bahane üreten cümlelerden uzak durun
+
+* Problem varsa açık açık söyleyin
+
+* Soru sormaktan çekinmeyin
+
+* Her zaman düzgün görünmeye özen gösterin
+
+---
+
+## Profesyonel İletişim - E-mail Kuralları
+
+[Eğitim Video Linki-13](https://www.youtube.com/watch?v=RgMmqV28kqM&t=3s)
+
+* E-mail'de 24 saat kuralı
+
+* Yazı dilinde dikkat edilmesi gerekenler
+    * Pozitif bir yazı dili geliştirin
+    * Özel fontlar kullanmayın. E-mail sizi ve şirketinizi yansıtır.
+    * Karşı tarafı incitecek bir kelime seçmediğinizden emin olun
+    * Çok fazla ünlem (!) kullanmayın
+    * Karşı tarafa bir anlam ifade etmeye çalışan noktalardan uzak durun...
+        * Örnek: Bunu size söylemiştim aslında.... (DEMEYİN)
+    * "Eğer bitirirsem.." yerine "bitirdiğimde.." 
+
+* BÜYÜK HARFLERİ KULLANMAYIN
+
+* Eğer sinirliyseniz mail atmayın    
+
+* Göndermeden önce son bir kez kontrol edin.
+    
+
 
