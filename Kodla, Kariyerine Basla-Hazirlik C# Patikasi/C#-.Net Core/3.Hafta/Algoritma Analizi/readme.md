@@ -72,3 +72,39 @@
 Algoritmamızın çalışmasını en iyi yansıtan average case, ama bu durumu analiz etmek diğerlerine göre çok daha zor. Inputların geldiği dağılımı bilip ona göre analiz etmek gerekiyor.
     * Worst Case'e göre analiz yaparsak, performansımız için üst sınır çizmiş oluruz.Böylece worst case için bizi tatmin eden bir algoritmamız varsa, average case zaten bundan daha iyi (veya aynı) performansı vereceği için oda bizi tatmin edecektir.
  
+---
+---
+
+# Big O Notation
+
+* İki farklı arama yöntemi düşünelim
+
+* A algoritması tek tek sayfalara bakıyor.
+
+* B algoritması sözlüğün alfabetik sıralanmış olduğundan en başta en ortadaki sayfayı açıyor, eğer bu sayfadaki harfler aradığım kelimeden alfabetik olarak daha ilerideyse sol tarafta aynısını yoksa sağ tarafa aynısını yapıyor.
+
+* Böylece problem her seferinde yarı boyutuna inmiş oluyor.
+
+* Bir kaç durum üzerinden konuşalım. Diyelimki 100 sayfalık bir sözlüğüm var. A algoritması en kötü durumda (aradığım en son sayfadaysa) kaç işlem yapacak ? (100 işlem)
+
+* B algoritması en kötü durumda kaç işlem yapar? (2^n =100)
+
+* Bu örneğe bakarak B algoritmasının A algoritmasından daha hızlı olduğunu görebiliyoruz. 100/7 den yaklaşık 15 katı hızında diyebilirmiyiz? Bu genellenebilir bir şeymidir?
+
+* Pek diyemiyoruz. Şöyle düşünelim, sözlüğüm 10.000 elemanlı olsa, A algoritması en kötü durumda 10.000 işlem yapar ama B algoritması 2^x = 10.000 yaklaşık 13 işlem yapar. 10.000/13 yaklaşık 770 katı hızında gözüküyor.
+
+* Bu yüzden algoritmaların sadece 1 input boyutuna göre karşılaştırılmalarına bakıp karar veremeyiz. Genel yapısını bize gösterecek bir analize ihtiyacımız var, işte burada Big O Notation devreye giriyor.
+
+* Big O Notation algoritmanın ne kadar sürede çalışacağını söylemeyecek. Bize algoritmamızın çalışma zamanının inputun boyutu ile nasıl değişeceğini söyleyecek.
+
+* Mesela sözlük örneğimizde input size'ımızın n dersek, algoritmamızın en kötü durumdan n işlem yaptığını söyleyebiliriz. Inputum n boyutunda olunca çalışma süremin de en kötü durumda n olmasını O(n) diye göstereceğim. Aynı şekilde B algoritması için O(logn)
+
+* Big O Notation'da yapılacak toplam işlem sayısının input size ile nasıl scale olacağına bakıyoruz. Benim için bu fonksiyonun yapısı önemli.
+
+* İşlem sayısı input size ile linear mi artıyor, karesi ile mi ortantılı artıyor, logaritmik mi?
+
+* Karakteristiği önemsemediğimiz için 2n işlem yapan algoritmaya da n işlem yapan algoritmaya da O(n) diyoruz, ikisi de linear bir şekilde artıyor. Big O Notation bakarken katsayılar önemli değil.
+
+* Analizimin sonucu **2n^2 + 3n + 2** gibi bir şey çıktı diyelim. "n" büyüdükçe, 3n +2 nin etkisi 2n^2 nin yanında önemsiz kalacak.  O yüzden dominant olanı Big O notation olarak yazabiliriz.(**O(n^2)**) 
+
+### O(nlogn) diye bir gösterimi yoktur.
