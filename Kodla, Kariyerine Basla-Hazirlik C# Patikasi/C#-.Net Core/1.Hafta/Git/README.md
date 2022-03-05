@@ -168,6 +168,12 @@ Genelde kişisel kullanıma yöneliktir. GitHub tarafındaki açık kaynak proje
 
 # Git Bash ile GIT Temel Komutları
 
+    git config --global user.name "devrimmehmet"   
+        Git kullanıcı adı tanımlama
+
+    git config --global user.email "devrimmehmet@gmail.com"
+        Git E-mail tanımlama
+
     git init  
         İlk defa Projeyi oluştururken kullanılır.
             Bir gizli klasör oluşturur .git adında.
