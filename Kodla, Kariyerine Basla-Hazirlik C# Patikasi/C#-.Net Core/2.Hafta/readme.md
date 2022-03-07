@@ -120,3 +120,25 @@ Unutmayın, aşırı stres sebebiyle bu sınavlarda başarılı olamamış olman
                                             
                                             - Emre Şarlak - Co-Founder, CPO
 
+## Mülakat Önerileri
+
+Bootcamp Hızlandırma Programı'nın son haftası. Bundan sonra yola daha sağlam devam edebilmek için  Mülakat Önerilerini içeren Launchpad videosunu mutlaka izlemelisiniz 😎
+
+ 
+
+https://www.youtube.com/watch?v=A28D_PIRfkA&ab_channel=Patika
+
+ 
+
+Mülakat sorularına sizinle paylaşıyoruz 😎
+
+ 
+
+* Kendini kısaca tanıtabilir misin?
+* Daha önce bootcamp alanıyla ilgili yaptığın akademik, profesyonel veya hobi olarak yaptığın projeleri anlatabilir misin? Somut örnekler vererek açıklar mısın?
+* Gelecekteki kariyer hedefleri (Ne kadar somut kariyer hedefi verebilirse o kadar iyi)
+* Azim, kararlılık ve sürekli öğrenme konularında geçmişten somut örnekler
+* Ekip çalışmasındaki rolüne dayalı somut örnekler (bu soruda ekibe ve topluluğa uyumunu ölçüyoruz)
+* Eğitim nerede ve hangi saatlerde gerçekleşecek bilgisi var mı? (ilgisini ve hazırlığını ölçüyoruz)
+* Eğitim zamanları stajın veya başka programınla çakışacak mı?
+* Bu bootcamp'e hep katılacağına bizi nasıl ikna edebilirsin?(motivasyonunu ölçüyoruz)
