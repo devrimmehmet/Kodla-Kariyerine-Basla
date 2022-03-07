@@ -2,7 +2,7 @@
 
 Sorting, kendinden sıralama algoritmaları olarak bahsetmektedir. Sorting, bir eleman dizisini, belirli sıralama kurallarına göre sıralama yapar.
 
-![Sorting-ilk-bakış]()
+![Sorting-ilk-bakış](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/sorting.png?raw=true)
 
 Searching yöntemini kullanarak elemanlarımızı sıraladık. Bunun sebebi, eleman ararken işimizin kolaylaşmasını istiyoruz.
 
@@ -26,11 +26,10 @@ Mode bulma: eleman dizisini search ettikten sonra elemanların yan yana olanlar�
 ## Insertion Sort
 En basit sorting algoritmalarından biridir.
 
-![insertion-sort]()
+![insertion-sort](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/insertion-sort.png?raw=true)
 
 Verilen örüntüye ait en küçük elemanı buluyor ve en baştaki sayı ile yer değiştiriyor. Peki ya devamı? İkinci en küçük elemanı buluyor ve 2. sıra ile değiştiriyor. Baktın ki 2.sıradaki eleman en küçük hiç dokunma!!!. Hemen 3. sıraya geç. 4, 5 derken dizi bitti. İşte insertion sortun temel çalışma prensibini öğrendin.
 
-![big-o-insertion]()
 
 ### Kaynaklar
 
@@ -52,9 +51,9 @@ Insertion Sort'da, Big-O gösteriminden dolayı inputum arttığında n^2 olduğ
 
 Peki daha hızlı bir şekilde sıralama yapılabilir mi? Evet, Merge Sort burada yardımımıza koşuyor. Bir listeyi her adımda parçaya ayırıp tek eleman kalıncaya kadar bölüyor. Böldükten sonra sıralı bir şekilde bize sunuyor (Performans).
 
-![merge-sort]()
+![merge-sort](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/merge-sort.png?raw=true)
 
-![big-o-merge]()
+![big-o-merge](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/big-o-merge.png?raw=true)
 
 Insertion sort'da, time complexity n^2 olduğundan ötürü çalışma zamanımız artıyordu. Merge sort'da ise nlogn olduğu için açık ara performans olarak daha iyi diyebiliriz.
 
