@@ -1,59 +1,87 @@
-# Searching nedir?
+# Sorting Nedir?
 
-Günümüzde veriler gitgide artan bir hal alıyor. Her insanın bir bilgisayarı ve telefonu olduğunu düşünürsek, terabaytlarca veri ediyor. Arama algoritmaları ise istediğim özellikteki verinin elimdeki veri setlerinde aranıp, bulunup getirilmesi demek. Bunun hızlı olmasına önem gösterilir.
+Sorting, kendinden sıralama algoritmaları olarak bahsetmektedir. Sorting, bir eleman dizisini, belirli sıralama kurallarına göre sıralama yapar.
+
+![Sorting-ilk-bakış](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/sorting.png?raw=true)
+
+Searching yöntemini kullanarak elemanlarımızı sıraladık. Bunun sebebi, eleman ararken işimizin kolaylaşmasını istiyoruz.
+
+Closest Pair yöntemini kullanarak birbirine yakın sayıları gruplandırdık ki arama yaparken zamanımızı efektif bir şekilde kullanalım.
+
+Aynı eleman kontrolü: birbiriyle aynı olan sayıları örüntü içerisinde kaç tane aynı eleman varsa sayısını öğrenebilirim.
+
+Mode bulma: eleman dizisini search ettikten sonra elemanların yan yana olanları sayarsam daha hızlı mode bulabilirim.
+
+### Kaynaklar
+[Sorting-algorithms-full](https://www.geeksforgeeks.org/sorting-algorithms/)
+
+[Types-of-Sorting](https://www.interviewbit.com/tutorial/sorting-algorithms/)
+
+[Sıralama-Algoritmaları](https://www.halildurmus.com/2021/02/22/siralama-algoritmalari-sorting-algorithms/)
+
+
+---
+---
+
+## Insertion Sort
+En basit sorting algoritmalarından biridir.
+
+![insertion-sort](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/insertion-sort.png?raw=true)
+
+Verilen örüntüye ait en küçük elemanı buluyor ve en baştaki sayı ile yer değiştiriyor. Peki ya devamı? İkinci en küçük elemanı buluyor ve 2. sıra ile değiştiriyor. Baktın ki 2.sıradaki eleman en küçük hiç dokunma!!!. Hemen 3. sıraya geç. 4, 5 derken dizi bitti. İşte insertion sortun temel çalışma prensibini öğrendin.
+
+
+
 
 ### Kaynaklar
 
-[search-algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
+[insertion-sort-with-code](https://www.geeksforgeeks.org/insertion-sort/)
 
-[why-we-need-searching-algorithms](https://www.bbc.co.uk/bitesize/guides/zgr2mp3/revision/1)
+[insertion-sort-with-data-structure](https://www.tutorialspoint.com/data_structures_algorithms/insertion_sort_algorithm.htm)
+
+[insertion-sort-nedir](https://www.mobilhanem.com/algoritma-dersleri-insertion-sort/)
+
+[insertion-sort-detay](http://cagataykiziltan.net/algoritmalar/1-siralama-algoritmalari/1-araya-sokma-siralamasi/)
 
 ---
 ---
 
-## Linear Search
-Linear search, tek tek elemanları dolandıktan sonra istediğim elemanın olup olmadığına bakmaktır.
+## Merge Sort
 
-Örneğin, [20,25,46,48] veri setini ele alalım. Benim aradığım eleman 25. İlk elemana gidiyorum ve değeri 20 sen değilsin diyorum. İkinci elemana gidiyorum ve değeri 25 evet sensin diyorum. Linear search algoritmam burada bitmiş oluyor.
 
-Big-o ya göre incelediğimizde bizim worst caseimiz neydi? Elemanın dizinin sonunda bulunmasıydı. Bu sebepten ötürü n elemanımız varsa big-o notasyonumuz otomatik olarak n oluyor.
+Insertion Sort'da, Big-O gösteriminden dolayı inputum arttığında n^2 olduğunda dolayı çalışma zamanı artıyor.
+
+Peki daha hızlı bir şekilde sıralama yapılabilir mi? Evet, Merge Sort burada yardımımıza koşuyor. Bir listeyi her adımda parçaya ayırıp tek eleman kalıncaya kadar bölüyor. Böldükten sonra sıralı bir şekilde bize sunuyor (Performans).
+
+![merge-sort](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/merge-sort.png?raw=true)
+
+![big-o-merge](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/big-o-merge.png?raw=true)
+
+Insertion sort'da, time complexity n^2 olduğundan ötürü çalışma zamanımız artıyordu. Merge sort'da ise nlogn olduğu için açık ara performans olarak daha iyi diyebiliriz.
 
 ### Kaynaklar
 
-[BBC-linear-search](https://www.bbc.co.uk/bitesize/guides/z7kkw6f/revision/7)
+[merge-sort-detail-with-code](https://www.programiz.com/dsa/merge-sort)
 
-[linear-search-with-code](https://www.programiz.com/dsa/linear-search)
+[merge-sort-article](https://www.khanacademy.org/computing/computer-science/algorithms/merge-sort/a/overview-of-merge-sort)
+
+[merge-sort-nedir-kod-dökümanı](http://cagataykiziltan.net/algoritmalar/1-siralama-algoritmalari/4-birlestirmeli-siralama/)
+
+[merge-sort-wiki](https://tr.wikipedia.org/wiki/Birle%C5%9Ftirmeli_s%C4%B1ralama)
 
 ---
 ---
 
-## Binary Search
-İkili arama algoritması, elimizde bulunan veri dizisini sıralı olduğunu varsayıyor, bu durumu değiştirerek sonuca varmak istiyor.
+## Quick Sort
 
-İkili arama algoritması, diziyi her seferinde ikiye bölerek ikili arama yapar. Sıralı bir listem var ise benim Big-o logn olarak karşımıza çıkıyor.
+Hızlı sıralama günümüzde çok yaygın olarak kullanılan bir sıralama algoritmasıdır. N tane sayıyı average case e göre big-o nlogn, worst case e göre big-o n^2 karmaşıklığı ile sıralanır.
 
-Aradığım sayı 15 ve benim değer kümem [10,15,20,16,22,36,23] diyelim. Binary Search bu diziyi manipüle ederek şu ifadeye dönüştürüyor. [10,15,16,20,22,23,36]. 36 sayısını en yüksek sayı, 10 sayısını en düşük sayı ilan ediyor. Benim aradığım sayı ile ortada kalan sayıyı kıyaslıyor eğer benim sayım büyükse kendinden küçük bütün sayıları siliyor. Ve kendine yeni bir ortanca belirliyor. Böylelikle gereksiz arama yapmaktan kurtarıyor.
+![QuickSort](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/Quicksort.png?raw=true)
 
-![binary-search](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/binary-search.png?raw=true)
+İlk olarak bir pivot belirler bu pivota göre pivottan küçük ve eşitler sol kısmına, pivottan büyük ve eşitler sağ kısmına yazılır. Parçalanmış kısımlar yeni bir pivot belirlenerek parça pinçik edilir.
 
 ### Kaynaklar
 
-[binary-search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+[quick-sort-nedir](https://tr.wikipedia.org/wiki/H%C4%B1zl%C4%B1_s%C4%B1ralama)
 
----
----
-
-## Binary Search Tree
-Bir düğüm her iki tarafa da referans verebiliyor. Sağ ve sol olarak. Sağ tarafından kendinden büyük elemanlar, sol tarafında ise kendinden küçük elemanlar bulunacak.
-
-![binary-search-tree](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/binary-search-tree.png?raw=true)
-
-Tree'ye eleman eklemek istediğimde root'dan başlıyorum. Örnek olarak ben 26 sayısını ağaç yapısına eklemek istiyorum. Root'a soruyorum senin değerin ne 56. Baştaki açıklamamızı hatırlayalım. Sağ tarafında kendinden büyük, sol tarafında kendinden küçük elemanlar var. O yüzden sırasıyla 56 ve 30 a kadar ilerliyorum. 30 bana benim sol tarafıma geçmelisin çünkü sen benden küçüksün diyor. Karşıma 22 değerinde olan düğüm çıkıyor ve 22 den büyük olduğum için sağ tarafına bir köşe çekiyorum ve 26 sayısını bağlıyorum.
-
-### Kaynaklar
-
-[binary-search-tree](https://tsafaelmali.medium.com/binary-search-tree-nedir-2e6fb0621d9)
-
-[binary-search-tree](https://www.buraksenyurt.com/post/Binary-Search-Tree-yi-Anlamak)
-
-[binary-search-tree-english-detail](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+[quick-sort](https://www.mobilhanem.com/algoritma-dersleri-quick-sort/)
