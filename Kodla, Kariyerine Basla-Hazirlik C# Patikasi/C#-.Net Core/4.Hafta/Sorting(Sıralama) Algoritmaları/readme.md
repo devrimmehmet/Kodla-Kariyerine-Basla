@@ -34,7 +34,7 @@ Big-o ya göre incelediğimizde bizim worst caseimiz neydi? Elemanın dizinin so
 
 Aradığım sayı 15 ve benim değer kümem [10,15,20,16,22,36,23] diyelim. Binary Search bu diziyi manipüle ederek şu ifadeye dönüştürüyor. [10,15,16,20,22,23,36]. 36 sayısını en yüksek sayı, 10 sayısını en düşük sayı ilan ediyor. Benim aradığım sayı ile ortada kalan sayıyı kıyaslıyor eğer benim sayım büyükse kendinden küçük bütün sayıları siliyor. Ve kendine yeni bir ortanca belirliyor. Böylelikle gereksiz arama yapmaktan kurtarıyor.
 
-![binary-search]()
+![binary-search](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/binary-search.png?raw=true)
 
 ### Kaynaklar
 
@@ -46,7 +46,7 @@ Aradığım sayı 15 ve benim değer kümem [10,15,20,16,22,36,23] diyelim. Bina
 ## Binary Search Tree
 Bir düğüm her iki tarafa da referans verebiliyor. Sağ ve sol olarak. Sağ tarafından kendinden büyük elemanlar, sol tarafında ise kendinden küçük elemanlar bulunacak.
 
-![binary-search-tree]()
+![binary-search-tree](https://github.com/devrimmehmet/Kodla-Kariyerine-Basla/blob/master/Kodla,%20Kariyerine%20Basla-Hazirlik%20C%23%20Patikasi/C%23-.Net%20Core/4.Hafta/G%C3%B6rseller/binary-search-tree.png?raw=true)
 
 Tree'ye eleman eklemek istediğimde root'dan başlıyorum. Örnek olarak ben 26 sayısını ağaç yapısına eklemek istiyorum. Root'a soruyorum senin değerin ne 56. Baştaki açıklamamızı hatırlayalım. Sağ tarafında kendinden büyük, sol tarafında kendinden küçük elemanlar var. O yüzden sırasıyla 56 ve 30 a kadar ilerliyorum. 30 bana benim sol tarafıma geçmelisin çünkü sen benden küçüksün diyor. Karşıma 22 değerinde olan düğüm çıkıyor ve 22 den büyük olduğum için sağ tarafına bir köşe çekiyorum ve 26 sayısını bağlıyorum.
 
