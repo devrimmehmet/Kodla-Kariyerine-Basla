@@ -1,5 +1,7 @@
 # Değişkenler
+
 [Eğitim Video Linki](https://www.youtube.com/watch?v=s7o7-MawYZg)
+
 ## Değişken Nedir?
 
 Değişkenler bizim uygulama geliştirirken kullandığımız veri tutucularımızdır. Kullandığımız verinin tipine ve büyüklüklüğüne bağlı olarak doğru veri tipini seçiyor olmak önemli. Örneğin sadece tek bir karakter tutmaya ihtiyacımız varsa o veri için Char veri tipinizi tanımlamak yeterli olacaktır. String tipinde bir değişken kullanmak gereksizdir. Uygulamanın performansı açısından doğru veri tiplerine karar verebilmek önemlidir.
@@ -26,3 +28,17 @@ https://docs.microsoft.com/tr-tr/dotnet/api/system.datetime?view=netcore-3.1
 String kütüphanesinin fonksiyonlarına yakından bakmak için :
 
 https://docs.microsoft.com/tr-tr/dotnet/api/system.string?view=netcore-3.1
+
+# Operatörler
+
+[Eğitim Video Linki](https://www.youtube.com/watch?v=Ebdx7u527fU&t=24s)
+
+Uygulama içerisinden bir atama işlemi yada durum karşılaştırması yapmak istediğimizde operatörleri kullanırız. Bazen koşullara bağlı olarak çalıştırılacak kod bloğunun değişmesi gerekir. Karar yapıları ve operatörler birlikte kullanılarak bu sağlanabilir.
+
+İşlevlerine göre operatörler aşağıdaki gibi kategorilendirilir.
+
+* Atama ve İşlemli Atama Operatörleri (=, +=, -=, *=, /=)
+* Mantıksal Operatörler (||, &&, !)
+* İlişkisel Operatörler (==,!=, <, >, >=,<=)
+* Aritmetik (+, -, *, /, %, ++, --)
+
