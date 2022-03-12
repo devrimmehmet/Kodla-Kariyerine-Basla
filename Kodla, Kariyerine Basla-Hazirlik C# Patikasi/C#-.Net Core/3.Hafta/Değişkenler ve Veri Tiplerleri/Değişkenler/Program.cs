@@ -89,6 +89,7 @@ namespace Değişkenler
 
             string hour=DateTime.Now.ToString("HH.mm");
             Console.WriteLine(hour);
+            Console.WriteLine(hour);
         }
     }
 }
