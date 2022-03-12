@@ -19,6 +19,7 @@ namespace If_ElseIf_Ternary_If
 
             sonuc= time>=6 && time<11 ? "Günaydın.": time <=18 ? "İyi Günler.":"İyi geceler.";
             Console.WriteLine(sonuc);
+            //hata1
 
         }
     }
