@@ -37,7 +37,7 @@ namespace For_Loop_ve_Break_Continue_ifadeleri
                     cifttoplam=cifttoplam+i;
                 }
                 
-
+//
             }
             toplam=tektoplam+cifttoplam;
             Console.WriteLine("Tek Toplam Sonuç: "+tektoplam);
