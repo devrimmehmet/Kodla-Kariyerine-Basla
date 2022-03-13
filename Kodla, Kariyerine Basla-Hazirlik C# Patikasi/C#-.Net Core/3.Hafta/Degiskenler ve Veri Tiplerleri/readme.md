@@ -22,7 +22,7 @@ Değişken tanımlarken dikkat edilmesi gereken bazı husular şu şekilde:
 * Datetime ve String veri tiplerlerini yazılım geliştirirken çok kullanıyoruz. İlerleyen derslerde sadece bu kütüphaneleri kullanarak bolca örnek yapıcaz. Ama öncesinde daha yakından bakmanın faydalı olacağını düşünüyorum.
 
 Datetime ın property (özellik) ve fonksiyonlarına yakından bakmak için :
-
+s
 https://docs.microsoft.com/tr-tr/dotnet/api/system.datetime?view=netcore-3.1
 
 String kütüphanesinin fonksiyonlarına yakından bakmak için :
